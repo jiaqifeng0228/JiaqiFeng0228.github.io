@@ -26,7 +26,7 @@ My research interest includes AI for multiferroicity. Feel free to reach out for
 
 # 🔥 News
 - *2025.10*: Selected for the Doctoral Student Special Program of the Youth Science and Technology Talent Cultivation Project of the Chinese Association for Science and Technology.
-- *2025.09*: &nbsp;🎉🎉 Joined the [PQM](https://physics.seu.edu.cn/sdong/) Lab!!
+- *2025.09*: &nbsp;🎉🎉 Joined the [PQM](https://physics.seu.edu.cn/sdong/) Lab!! Joined the [IQM](https://www.iqmlab.org/) Lab.
 
 # 📝 Publications 
 
