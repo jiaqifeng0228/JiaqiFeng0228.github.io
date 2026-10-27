@@ -19,9 +19,9 @@ redirect_from:
 
 👋 Welcome to my homepage. 
 
-I am a first-year Ph.D. student at the [Key Laboratory of Quantum Materials and Devices of Ministry of Education, School of Physics, Southeast University](https://physics.seu.edu.cn/sdong/), under the supervision of Prof. Shuai Dong and Prof. Lingfang Lin. I am also a member of Prof. Lin’s [Intelligent Quantum Materials Lab](https://www.iqmlab.org/). Prior to this, I earned both my B.S. and M.S. degrees from Jiangsu Normal University, at the Jiangsu Key Laboratory of Extreme Multi-Field Materials Physics, School of Physics and Electronic Engineering under the supervision of Prof. Meiling Xu and Prof. Yinwei Li.
+I am a second-year Ph.D. student at the [Key Laboratory of Quantum Materials and Devices of Ministry of Education, School of Physics, Southeast University](https://physics.seu.edu.cn/sdong/), under the supervision of Prof. Shuai Dong and Prof. Lingfang Lin. I am also a member of Prof. Lin’s [Intelligent Quantum Materials Lab](https://www.iqmlab.org/). Prior to this, I earned both my B.S. and M.S. degrees from Jiangsu Normal University, at the Jiangsu Key Laboratory of Extreme Multi-Field Materials Physics, School of Physics and Electronic Engineering under the supervision of Prof. Xiaodong Zhou and Prof. Yinwei Li.
 
-My research interest includes AI/ML-assisted quantum materials discovery and multiferroicity. Feel free to reach out for discussions or collaborations.
+My research interest includes AI for multiferroicity. Feel free to reach out for discussions or collaborations.
 
 
 # 🔥 News
