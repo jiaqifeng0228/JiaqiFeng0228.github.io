@@ -83,12 +83,12 @@ This work predicts a metal-decoration-free Li<sub>3</sub>C<sub>2</sub> monolayer
 - Yiming Zhang, **Jingyan Chen**, Jian Hao, Meiling Xu, Yinwei Li. [Conventional high-temperature superconductivity in σ-band driven metallized two-dimensional metal borocarbides](https://doi.org/10.1103/PhysRevB.110.064513). *Physical Review B*, 2024, **110**, 064513.
 
 # 🎖 Honors and Awards
-- *2025.10* National Scholarship for Graduate Students
+- *2024.10* National Scholarship for Graduate Students
 
 # 📖 Educations
-- *2026.09 - Present*, Ph.D. student in Physics, School of Physics, Southeast University; Key Laboratory of Quantum Materials and Devices, Ministry of Education, Nanjing, China.
-- *2023.09 - 2026.06*, M.S. in Condensed Matter Physics, School of Physics and Electronic Engineering, Jiangsu Normal University; Jiangsu Key Laboratory of Extreme Multi-Field Materials Physics, Xuzhou, China.
-- *2019.09 - 2023.06*, B.S. in Physics (Teacher Education), Jiangsu Normal University, Xuzhou, China. 
+- *2025.09 - Present*, Ph.D. student in Physics, School of Physics, Southeast University; Key Laboratory of Quantum Materials and Devices, Ministry of Education, Nanjing, China.
+- *2022.09 - 2025.06*, M.S. in Condensed Matter Physics, School of Physics and Electronic Engineering, Jiangsu Normal University; Jiangsu Key Laboratory of Extreme Multi-Field Materials Physics, Xuzhou, China.
+- *2018.09 - 2022.06*, B.S. in Physics (Teacher Education), Jiangsu Normal University, Xuzhou, China.
 
 # 💬 Invited Talks
 
