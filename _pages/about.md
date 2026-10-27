@@ -38,6 +38,10 @@ My research interest includes AI for multiferroicity. Feel free to reach out for
   **J Feng**, X Zhou, J Chen, M Xu, X Yang, Y Li<br>
   Physical Review B 111 (21), 214446, 2025
 
+- **[Chirality-modulated anomalous transport properties in monolayer FeZrCl6](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=S-D3qXMAAAAJ&citation_for_view=S-D3qXMAAAAJ:UeHWp8X0CEIC)**<br>
+  X Peng, **J Feng**, X Yang, J Hao, T Zhang, C Niu, X Zhou, Y Li<br>
+  Physical Review Materials 10 (3), 034005, 2026
+
 - [Van Hove singularity, flat bands, Dirac states, and superconductivity in van der Waals–bonded and covalently bonded bilayer borophene with a coloring triangular lattice](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=S-D3qXMAAAAJ&citation_for_view=S-D3qXMAAAAJ:IjCSPb-OGe4C)<br>
   Y Liu, Y Zhang, M Xu, J Feng, J Hao, Y Li<br>
   Physical Review B 111 (8), 085401, 2025
@@ -49,10 +53,6 @@ My research interest includes AI for multiferroicity. Feel free to reach out for
 - [Phase-transition-driven ferroic response in 2D CuMnP2Se6 under ultra-low electric fields](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=S-D3qXMAAAAJ&citation_for_view=S-D3qXMAAAAJ:2osOgNQ5qMEC)<br>
   J Chen, M Xu, Y Jie, J Feng, X Zhou, Y Wang, Y Li<br>
   Nature Communications 17 (1), 811, 2025
-
-- [Chirality-modulated anomalous transport properties in monolayer FeZrCl6](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=S-D3qXMAAAAJ&citation_for_view=S-D3qXMAAAAJ:UeHWp8X0CEIC)<br>
-  X Peng, J Feng, X Yang, J Hao, T Zhang, C Niu, X Zhou, Y Li<br>
-  Physical Review Materials 10 (3), 034005, 2026
 
 - [Phase-Transition-Induced Ferroelectric and Magnetic Switching in Two-Dimensional CuMnP2Se6 under Ultra-Low Electric Fields](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=S-D3qXMAAAAJ&citation_for_view=S-D3qXMAAAAJ:9yKSN-GCB0IC)<br>
   Y Wang, J Chen, M Xu, Y Jie, J Feng, X Zhou, Y Li<br>
