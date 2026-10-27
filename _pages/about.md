@@ -28,59 +28,35 @@ My research interest includes AI for multiferroicity. Feel free to reach out for
 - *2025.10*: Selected for the Doctoral Student Special Program of the Youth Science and Technology Talent Cultivation Project of the Chinese Association for Science and Technology. Joined the [IQM](https://www.iqmlab.org/) Lab.
 - *2025.09*: &nbsp;🎉🎉 Joined the [PQM](https://physics.seu.edu.cn/sdong/) Lab!!
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Commun. 2025</div><img src='images/H2O-OH.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [Layer control of magneto-optical effects and their quantization in spin-valley splitting antiferromagnets](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=S-D3qXMAAAAJ&citation_for_view=S-D3qXMAAAAJ:u5HHmVD_uO8C)<br>
+  J Feng, X Zhou, M Xu, J Shi, Y Li<br>
+  Nano Letters 24 (13), 3898-3905, 2024
 
-[Control of magnetic transitions via interlayer engineering in ferroelectric H<sub>2</sub>O–OH systems](https://doi.org/10.1038/s41467-025-60173-x)
+- [Ferroelectric antiferromagnetic lifting of spin-valley degeneracy](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=S-D3qXMAAAAJ&citation_for_view=S-D3qXMAAAAJ:d1gkVwhDpl0C)<br>
+  J Feng, X Zhou, J Chen, M Xu, X Yang, Y Li<br>
+  Physical Review B 111 (21), 214446, 2025
 
-**Jingyan Chen**, Qiaoxiao Zhao, Meiling Xu, Zijia Liu, Xuegao Hu, Jiaqi Feng, Xiaodong Zhou, Hong Jian Zhao, Baojie Feng, Lan Chen, Yinwei Li, Yanchao Wang
+- [Van Hove singularity, flat bands, Dirac states, and superconductivity in van der Waals–bonded and covalently bonded bilayer borophene with a coloring triangular lattice](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=S-D3qXMAAAAJ&citation_for_view=S-D3qXMAAAAJ:IjCSPb-OGe4C)<br>
+  Y Liu, Y Zhang, M Xu, J Feng, J Hao, Y Li<br>
+  Physical Review B 111 (8), 085401, 2025
 
-[**Project**](https://www.nature.com/articles/s41467-025-60173-x) · [PDF]( {{ '/files/H2O-OH.pdf' | relative_url }} )
-- This work investigates layer- and stacking-dependent magnetic transitions in H<sub>2</sub>O–OH systems and reports the synthesis of H<sub>2</sub>O–OH multilayers on Ag(111). 
-</div>
-</div>
+- [Control of magnetic transitions via interlayer engineering in ferroelectric H2O–OH systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=S-D3qXMAAAAJ&citation_for_view=S-D3qXMAAAAJ:u-x6o8ySG0sC)<br>
+  J Chen, Q Zhao, M Xu, Z Liu, X Hu, J Feng, X Zhou, HJ Zhao, B Feng, ...<br>
+  Nature Communications 16 (1), 4809, 2025
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Commun. 2025</div><img src='images/CuMnP2Se6.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [Phase-transition-driven ferroic response in 2D CuMnP2Se6 under ultra-low electric fields](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=S-D3qXMAAAAJ&citation_for_view=S-D3qXMAAAAJ:2osOgNQ5qMEC)<br>
+  J Chen, M Xu, Y Jie, J Feng, X Zhou, Y Wang, Y Li<br>
+  Nature Communications 17 (1), 811, 2025
 
-[Phase-transition-driven ferroic response in 2D CuMnP<sub>2</sub>Se<sub>6</sub> under ultra-low electric fields](https://doi.org/10.1038/s41467-025-67516-8)
+- [Chirality-modulated anomalous transport properties in monolayer FeZrCl6](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=S-D3qXMAAAAJ&citation_for_view=S-D3qXMAAAAJ:UeHWp8X0CEIC)<br>
+  X Peng, J Feng, X Yang, J Hao, T Zhang, C Niu, X Zhou, Y Li<br>
+  Physical Review Materials 10 (3), 034005, 2026
 
-**Jingyan Chen**, Meiling Xu, Yuntao Jie, Jiaqi Feng, Xiaodong Zhou, Yanchao Wang, Yinwei Li
-
-[**Project**](https://www.nature.com/articles/s41467-025-67516-8) · <a href="{{ '/files/CuMnP2Se6.pdf' | relative_url }}">PDF</a>
-
-This work investigates electric-field-driven ferroic switching in CuMnP<sub>2</sub>Se<sub>6</sub>, including polarization reversal coupled with an antiferromagnetic-to-ferromagnetic transition under an ultra-low electric field.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Materials Lett. 2022</div><img src='images/Li3C2.png' alt="Li3C2 paper" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Metal-Decoration-Free Li<sub>3</sub>C<sub>2</sub> Monolayer with Heptacoordinate Carbons as a Promising Hydrogen Storage Medium](https://doi.org/10.1021/acsmaterialslett.2c00254)
-
-**Jingyan Chen**, Shuyi Lin, Meiling Xu, Feilong Wang, Yejue Shao, Jian Hao, Yinwei Li
-
-[**Project**](https://pubs.acs.org/doi/10.1021/acsmaterialslett.2c00254) · <a href="{{ '/files/Li3C2.pdf' | relative_url }}">PDF</a>
-
-This work predicts a metal-decoration-free Li<sub>3</sub>C<sub>2</sub> monolayer for hydrogen storage. The material is predicted to store up to 8.2 wt% hydrogen, with hydrogen release near room temperature.
-
-</div>
-</div>
-
-- Meiling Xu, Zitong Wu, **Jingyan Chen**, Zhuohang Xie, Yan Liu, Shicong Ding, Yinwei Li, Guoan Tai, Yanchao Wang. [Semiconducting Borophene Realized via Hydrogenation-Driven Structural Reconstruction](https://doi.org/10.1002/anie.202516206). *Angewandte Chemie International Edition*, 2026, **65**, e16206. [PDF](/jychen-homepage-new/files/borophene.pdf)
-
-- Shuyi Lin, **Jingyan Chen**, Bi Zhang, Jian Hao, Meiling Xu, Yinwei Li. [Lanthanium nitride LaN<sub>9</sub> featuring azide units: the first metal nine-nitride as a high-energy-density material](https://doi.org/10.1039/D3CP06155H). *Physical Chemistry Chemical Physics*, 2024. [PDF](/jychen-homepage-new/files/LaN.pdf)
-
-- Jiaqi Feng, Xiaodong Zhou, **Jingyan Chen**, Meiling Xu, Xiuxian Yang, Yinwei Li. [Ferroelectric antiferromagnetic lifting of spin-valley degeneracy](https://doi.org/10.1103/jyq4-d4gs). *Physical Review B*, 2025, **111**, 214446.
-
-- Wan Zhao, Xiaodong Zhou, Tao Zhu, Jie Chen, Hang Li, **Jingyan Chen**, Meiling Xu, Wenhong Wang. [Electric-Field-Controlled Interconversion of Antiferromagnetic States in a Two-Dimensional Antiferroelectric Halide Perovskite](https://doi.org/10.1002/advs.77147). *Advanced Science*, 2026, e77147. [PDF](/jychen-homepage-new/files/W-Zhao2026_AS.pdf)
-
-- Yuntao Jie, **Jingyan Chen**, Meiling Xu, Yinwei Li. [Strain-tunable ferromagnetic to antiferromagnetic and half-metallic to ferroelectric phase transitions in a 2D bimetallic oxyhalide](https://doi.org/10.1063/5.0285737). *Applied Physics Letters*, 2025, **127**(6), 062903. [PDF](/jychen-homepage-new/files/NbMnO2Cl4.pdf)
-
-- Yiming Zhang, **Jingyan Chen**, Jian Hao, Meiling Xu, Yinwei Li. [Conventional high-temperature superconductivity in σ-band driven metallized two-dimensional metal borocarbides](https://doi.org/10.1103/PhysRevB.110.064513). *Physical Review B*, 2024, **110**, 064513.
+- [Phase-Transition-Induced Ferroelectric and Magnetic Switching in Two-Dimensional CuMnP2Se6 under Ultra-Low Electric Fields](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=S-D3qXMAAAAJ&citation_for_view=S-D3qXMAAAAJ:9yKSN-GCB0IC)<br>
+  Y Wang, J Chen, M Xu, Y Jie, J Feng, X Zhou, Y Li<br>
+  2025
 
 # 🎖 Honors and Awards
 - *2024.10* National Scholarship for Graduate Students
