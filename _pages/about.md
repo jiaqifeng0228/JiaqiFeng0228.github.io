@@ -30,12 +30,12 @@ My research interest includes AI for multiferroicity. Feel free to reach out for
 
 # 📝 Publications
 
-- [Layer control of magneto-optical effects and their quantization in spin-valley splitting antiferromagnets](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=S-D3qXMAAAAJ&citation_for_view=S-D3qXMAAAAJ:u5HHmVD_uO8C)<br>
-  J Feng, X Zhou, M Xu, J Shi, Y Li<br>
+- **[Layer control of magneto-optical effects and their quantization in spin-valley splitting antiferromagnets](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=S-D3qXMAAAAJ&citation_for_view=S-D3qXMAAAAJ:u5HHmVD_uO8C)**<br>
+  **J Feng**, X Zhou, M Xu, J Shi, Y Li<br>
   Nano Letters 24 (13), 3898-3905, 2024
 
-- [Ferroelectric antiferromagnetic lifting of spin-valley degeneracy](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=S-D3qXMAAAAJ&citation_for_view=S-D3qXMAAAAJ:d1gkVwhDpl0C)<br>
-  J Feng, X Zhou, J Chen, M Xu, X Yang, Y Li<br>
+- **[Ferroelectric antiferromagnetic lifting of spin-valley degeneracy](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=S-D3qXMAAAAJ&citation_for_view=S-D3qXMAAAAJ:d1gkVwhDpl0C)**<br>
+  **J Feng**, X Zhou, J Chen, M Xu, X Yang, Y Li<br>
   Physical Review B 111 (21), 214446, 2025
 
 - [Van Hove singularity, flat bands, Dirac states, and superconductivity in van der Waals–bonded and covalently bonded bilayer borophene with a coloring triangular lattice](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=S-D3qXMAAAAJ&citation_for_view=S-D3qXMAAAAJ:IjCSPb-OGe4C)<br>
