@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/jychen-homepage-new/#about-me"
+    url: "/#about-me"
 
   - title: "News"
-    url: "/jychen-homepage-new/#-news"
+    url: "/#-news"
 
   - title: "Publications"
-    url: "/jychen-homepage-new/#-publications"
+    url: "/#-publications"
 
   - title: "Honors and Awards"
-    url: "/jychen-homepage-new/#-honors-and-awards"
+    url: "/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/jychen-homepage-new/#-educations"
+    url: "/#-educations"
 
   - title: "Invited Talks"
-    url: "/jychen-homepage-new/#-invited-talks"
+    url: "/#-invited-talks"
 
   - title: "Internships"
-    url: "/jychen-homepage-new/#-internships"
+    url: "/#-internships"
