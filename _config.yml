@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiaqi Feng"
-  avatar           : "images/picture.jpg"
+  avatar           : "images/picture.png"
   bio              : "Southeast University"
   location         : "Nanjing, China"
   employer         :
