@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jingyan Chen (陈静妍)"
+title                    : "Jiaqi Feng"
 description              : "PhD student "
 repository               : "JingyanChen730/jychen-homepage-new"
 url                      : "https://jingyanchen730.github.io"
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jingyan Chen (陈静妍)"
+  name             : "Jiaqi Feng"
   avatar           : "images/picture.jpg"
   bio              : "Southeast University"
   location         : "Nanjing, China"
